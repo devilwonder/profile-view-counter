@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Profile View Counter API
 
 A simple Node.js API for tracking profile views with Railway deployment support.
@@ -103,3 +104,7 @@ npm start
 ## 📝 License
 
 MIT License - feel free to use and modify!
+=======
+# profile-view-counter
+Profile View Counter API for GitHub README
+>>>>>>> 5013279a9d54d3690f63a1ada21d47b5f4671ad5
